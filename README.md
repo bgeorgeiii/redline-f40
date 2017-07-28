@@ -5,7 +5,6 @@ Information needed to replace the 2004 - 2007 Saturn ION Redline & 2005 - 2010 C
 [View the wiki](https://github.com/bgeorgeiii/redline-f40/wiki/Parts-List)
 
 # TODO
-* Upload Rear Mount Drawings
 * Upload Front Mount & Bracket Drawings
 * Upload Top Mount Bracket Drawings / Instructions
 * Complete Installation Instructions
